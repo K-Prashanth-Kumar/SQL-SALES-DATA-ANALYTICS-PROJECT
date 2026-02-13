@@ -1,4 +1,4 @@
-# SQL-SALES-EDA-ANALYSIS
+# SQL-SALES-EDA-PROJECT
 
 ## 📌 Project Overview
 This project demonstrates end-to-end Exploratory Data Analysis (EDA) using T-SQL on a structured sales dataset.  
